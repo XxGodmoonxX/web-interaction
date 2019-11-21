@@ -1,0 +1,9 @@
+{
+  "name": "web-interaction-sampler",
+  "version": "1.0.0",
+  "description": "Webで使えるインタラクション集",
+  "main": "index.js",
+  "repository": "https://github.com/XxGodmoonxX/web-interaction",
+  "author": "Motoki Watanabe <knd.sbz.mrs.rg.tg.uhr.uol@gmail.com>",
+  "license": "MIT"
+}
